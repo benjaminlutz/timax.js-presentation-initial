@@ -4,5 +4,12 @@
     "full_stack_js.html",
     "mean.html",
     "bausteinsicht_ebene_1.html",
-    "quality_goal_all.html"
+    "quality_goal_all.html",
+    "good_scalability.html",
+    "fast_response_time.html",
+    "high_availability.html",
+    "high_interoperability.html",
+    "deployment_normal.html",
+    "deployment_scale_out.html",
+    "authentication.html"
 ]
